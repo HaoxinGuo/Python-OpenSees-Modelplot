@@ -11,7 +11,7 @@
 如果您发现任何错误或有任何请求的添加，请告诉我。
 
 ## 效果示例
-<img src=./figure/model.png width="400" height="400"><img src=./figure/shape1.png width="400" height="400">
+<img src="figure/model.png" width="400" height="400"><img src=./figure/shape1.png width="400" height="400">
 <img src=./figure/shape2.png width="400" height="400"><img src=./figure/shape2.png width="400" height="400">
 <img src=./figure/model2.png width="200" height="200"><img src=./figure/model3.png width="200" height="200"><img src=./figure/model4.png width="200" height="200"><img src=./figure/model5.png width="200" height="200">
 ## 如何使用代码
