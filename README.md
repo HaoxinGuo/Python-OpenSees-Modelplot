@@ -9,6 +9,11 @@
 “ Frame_model.tcl”提供了一个示例，通过Opensees运行此文件，生成所需的输入文件。
 
 如果您发现任何错误或有任何请求的添加，请告诉我。
+## 增加内容
+2019.11.1 重新构建了Python的输出样式通过编译Opensees输出JSON文件，更合理的处理一些逻辑关系和类的使用
+
+* node类
+* element类
 
 ## 效果示例
 <img src="figure/model.png" width="400" height="400"><img src=./figure/shape1.png width="400" height="400">
